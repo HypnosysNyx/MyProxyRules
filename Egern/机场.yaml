@@ -1,0 +1,6 @@
+# 机场 - Egern native Rule Set
+# Routing policy: 金融消费
+
+domain_suffix_set:
+  - wugui288.cc
+  - in.mesl.cloud

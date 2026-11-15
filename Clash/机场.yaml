@@ -1,0 +1,6 @@
+# 机场 - Clash / Mihomo Rule Provider
+# Routing policy: 金融消费
+
+payload:
+  - DOMAIN-SUFFIX,wugui288.cc
+  - DOMAIN-SUFFIX,in.mesl.cloud

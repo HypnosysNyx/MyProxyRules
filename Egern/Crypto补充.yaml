@@ -1,0 +1,13 @@
+# Crypto补充 - Egern native Rule Set
+# Routing policy: 金融消费
+
+domain_suffix_set:
+  - bitget.com
+  - gate.com
+  - tronlink.io
+  - ether.fi
+  - infura.io
+  - 24bit.net
+  - tagss.pro
+  - bycsi.com
+  - xn--4gqx1hgtfdmt.com

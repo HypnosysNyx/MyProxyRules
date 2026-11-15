@@ -1,0 +1,7 @@
+# Mail补充 - Surge Rule Set for Egern
+# Routing policy: 全球手动
+
+DOMAIN-SUFFIX,tuta.com
+DOMAIN-SUFFIX,tutanota.com
+DOMAIN-SUFFIX,tuta.io
+DOMAIN-SUFFIX,tutamail.com

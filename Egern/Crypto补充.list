@@ -1,0 +1,12 @@
+# Crypto补充 - Surge Rule Set for Egern
+# Routing policy: 金融消费
+
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,tronlink.io
+DOMAIN-SUFFIX,ether.fi
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,24bit.net
+DOMAIN-SUFFIX,tagss.pro
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,xn--4gqx1hgtfdmt.com

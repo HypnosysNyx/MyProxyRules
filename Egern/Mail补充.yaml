@@ -1,0 +1,8 @@
+# Mail补充 - Egern native Rule Set
+# Routing policy: 全球手动
+
+domain_suffix_set:
+  - tuta.com
+  - tutanota.com
+  - tuta.io
+  - tutamail.com

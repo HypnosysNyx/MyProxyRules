@@ -1,0 +1,7 @@
+# 国内镜像 - Egern native Rule Set
+# Routing policy: 国内网站
+
+domain_suffix_set:
+  - tuna.tsinghua.edu.cn
+  - mirrors.ustc.edu.cn
+  - mirrors.aliyun.com

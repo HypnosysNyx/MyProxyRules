@@ -1,0 +1,7 @@
+# 国内镜像 - Clash / Mihomo Rule Provider
+# Routing policy: 国内网站
+
+payload:
+  - DOMAIN-SUFFIX,tuna.tsinghua.edu.cn
+  - DOMAIN-SUFFIX,mirrors.ustc.edu.cn
+  - DOMAIN-SUFFIX,mirrors.aliyun.com

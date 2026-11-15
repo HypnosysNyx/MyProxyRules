@@ -1,0 +1,6 @@
+# 国内镜像 - Surge Rule Set for Egern
+# Routing policy: 国内网站
+
+DOMAIN-SUFFIX,tuna.tsinghua.edu.cn
+DOMAIN-SUFFIX,mirrors.ustc.edu.cn
+DOMAIN-SUFFIX,mirrors.aliyun.com

@@ -1,0 +1,10 @@
+# YouTube补充 - Egern native Rule Set
+# Routing policy: Google手动
+
+domain_suffix_set:
+  - googlevideo.com
+  - ytimg.com
+  - ggpht.com
+  - youtu.be
+  - youtube.com
+  - youtubei.googleapis.com

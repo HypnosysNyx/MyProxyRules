@@ -1,0 +1,5 @@
+# 机场 - Surge Rule Set for Egern
+# Routing policy: 金融消费
+
+DOMAIN-SUFFIX,wugui288.cc
+DOMAIN-SUFFIX,in.mesl.cloud

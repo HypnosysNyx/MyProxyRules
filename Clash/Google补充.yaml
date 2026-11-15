@@ -1,0 +1,16 @@
+# Google补充 - Clash / Mihomo Rule Provider
+# Routing policy: Google手动
+
+payload:
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,googlezip.net
+  - DOMAIN-SUFFIX,play-lh.googleusercontent.com
+  - DOMAIN-SUFFIX,play.google.com
+  - DOMAIN-SUFFIX,play.googleapis.com
+  - DOMAIN-SUFFIX,dl.google.com
+  - DOMAIN-SUFFIX,android.clients.google.com
+  - DOMAIN-SUFFIX,android.googleapis.com
+  - DOMAIN-SUFFIX,android.apis.google.com

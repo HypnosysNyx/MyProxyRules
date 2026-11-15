@@ -1,0 +1,10 @@
+# AppleMusic补充 - Egern native Rule Set
+# Routing policy: Apple中国
+
+domain_suffix_set:
+  - music.apple.com
+  - amp-api.music.apple.com
+  - amp-api-edge.music.apple.com
+  - itunes.apple.com
+  - mzstatic.com
+  - blobstore.apple.com
